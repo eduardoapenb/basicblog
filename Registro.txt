@@ -1,1 +1,3 @@
 Este es un nuevo archivo para llevar los cambios. 
+Vamos a probar el checkout.
+No se que paso pero estar raro. 
