@@ -3,3 +3,13 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+
+.container{
+    border: 1px solid red;
+    margin: 5px auto;
+    padding: 10px;
+    text-align: center;
+    width: 90%;
+    background-color: blue;
+}
+
