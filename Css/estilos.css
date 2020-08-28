@@ -10,6 +10,21 @@ body{
     padding: 10px;
     text-align: center;
     width: 90%;
-    background-color: blue;
+    background-color: darkblue;
+    color:brown;
 }
 
+.cabecera{
+    background-color: skyblue;
+    text-align: inherit;
+    padding: inherit;
+    margin: inherit;
+    width: 60%;
+    font-size: 30px;
+    
+}
+
+.container h1 {
+    color: black;
+    font-size: 25px;
+}
