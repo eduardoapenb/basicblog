@@ -28,3 +28,17 @@ body{
     color: black;
     font-size: 25px;
 }
+
+.contenido{
+    border: 1px solid red;
+    margin: 5px auto;
+    padding: 10px;
+    text-align: center;
+    width: 90%;
+    background-color: #3A4E7A;
+    color:whitesmoke;
+}
+.contenido strong {
+    color: skyblue;
+    font-weight: bold;
+}
