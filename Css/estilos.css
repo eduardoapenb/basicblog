@@ -37,6 +37,8 @@ body{
     width: 90%;
     background-color: #3A4E7A;
     color:whitesmoke;
+    box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 0.5);
+
 }
 .contenido strong {
     color: skyblue;
