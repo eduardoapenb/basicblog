@@ -27,6 +27,13 @@ body{
 .container h1 {
     color: black;
     font-size: 25px;
+
+}
+
+.container strong {
+    color: white;
+    font-size: 25px;
+    
 }
 
 .contenido{
